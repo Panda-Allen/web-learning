@@ -14,7 +14,7 @@
 
 ## 通用篇 - 使用Command
 Command菜单可以帮助我们快速找到那些被隐藏起来的功能；可以使用快捷键<kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>p</kbd>  功能大致分类如下：  
-![Chrome Devtools Command 集合](https://user-gold-cdn.xitu.io/2018/12/11/1679a2e13926d71b?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
+![Chrome Devtools Command 集合](./image/command-menu-sections)
 常用功能点
 * 能对DOM节点进行截图
 * 快速切换面板
