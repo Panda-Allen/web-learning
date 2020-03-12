@@ -18,7 +18,11 @@
 `Object` 的每个实例都具有下列属性和方法：
 - `constructor`: 指向当前对象的的构造器（即创建当前对象的构造函数）。
 - `hasOwnProperty`: 用于检测给定的属性在当前对象实例中（而不是在实例的原型中）是否存在。其中，参数（属性名）必须已字符串的形式传入。
-- 未完待续...
+- `isPrototypeOf(object)`: 用于检查传入的对象是否是当前对象的原型。
+- `propertyIsEnumerable(propertyName)`: 检查属性是否能够被for-in语句枚举。
+- `toLocalString()`: 返回对象的字符串表示，该字符串与执行环境的地区对应。
+- `toString()`: 返回对象的字符串表示。
+- `valueOf()`: 返回对象的字符串、数值或布尔值表示。
 
 ## 引用类型
 
